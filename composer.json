@@ -1,0 +1,19 @@
+{
+    "name": "deadpool/dirtracer",
+    "description": "Traces a relative directory",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Shubham S Chahar",
+            "email": "shubham.chahar@kritivity.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
